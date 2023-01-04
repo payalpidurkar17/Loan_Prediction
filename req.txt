@@ -1,0 +1,5 @@
+python 3.10
+sklearn
+skfeature
+numpy 
+pickle
